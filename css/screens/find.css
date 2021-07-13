@@ -13,8 +13,7 @@
 .recommended-friends span {
   display: block;
   text-align: center;
-  margin: 70px 0px;
-  /* 기존 margin 100px*/
+  margin: 100px 0px;
   font-size: 18px;
   color: var(--font-color-gray);
 }
